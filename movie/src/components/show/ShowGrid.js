@@ -1,6 +1,7 @@
 import React from 'react';
-import { FlexGrid } from '../Styled';
 import ShowCard from './ShowCard';
+
+import { FlexGrid } from '../styled';
 
 import IMAGE_NOT_FOUND from '../../images/not-found.png';
 
